@@ -1,0 +1,2 @@
+# COVID-19
+python main.py --data COVID --seq_len 48 --pre_length 16 --train_epochs 1 --batch_size 32 --early_stop True --device 0
